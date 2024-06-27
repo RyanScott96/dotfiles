@@ -1,3 +1,4 @@
 term=kitty,alacritty
 dmenu-show_all=true
-
+key_expand=Tab
+style=$HOME/.config/wofi/style.css
